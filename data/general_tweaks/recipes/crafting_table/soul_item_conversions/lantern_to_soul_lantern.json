@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        { "item": "minecraft:lantern" },
+        { "tag": "general_tweaks:soul_sands" }
+    ],
+    "result": {
+        "item": "minecraft:soul_lantern",
+        "count": 1
+    }
+}

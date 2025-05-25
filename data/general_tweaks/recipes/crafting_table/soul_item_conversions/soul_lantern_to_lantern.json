@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        { "item": "minecraft:soul_lantern" }
+    ],
+    "result": {
+        "item": "minecraft:lantern",
+        "count": 1
+    }
+}

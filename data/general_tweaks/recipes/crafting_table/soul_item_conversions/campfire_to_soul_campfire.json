@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        { "item": "minecraft:campfire" },
+        { "tag": "general_tweaks:soul_sands" }
+    ],
+    "result": {
+        "item": "minecraft:soul_campfire",
+        "count": 1
+    }
+}
