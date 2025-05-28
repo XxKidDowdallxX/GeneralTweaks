@@ -4,7 +4,7 @@
     "group": "soul_torches",
     "ingredients": [
         { "item": "minecraft:torch" },
-        { "tag": "general_tweaks:soul_sands" }
+        { "tag": "minecraft:soul_fire_base_blocks" }
     ],
     "result": {
         "item": "minecraft:soul_torch",
