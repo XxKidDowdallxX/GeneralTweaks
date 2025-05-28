@@ -1,5 +1,7 @@
 {
     "type": "crafting_shapeless",
+    "category": "misc",
+    "group": "lanterns",
     "ingredients": [
         { "item": "minecraft:soul_lantern" }
     ],

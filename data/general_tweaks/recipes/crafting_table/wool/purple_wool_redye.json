@@ -1,5 +1,7 @@
 {
     "type": "crafting_shapeless",
+    "category": "build",
+    "group": "redye",
     "ingredients": [
         { "tag": "minecraft:wool" },
         { "item": "minecraft:purple_dye" }

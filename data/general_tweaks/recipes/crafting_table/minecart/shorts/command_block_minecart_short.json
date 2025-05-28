@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "misc",
+    "group": "command_block_minecarts",
     "pattern": [
         "ICI",
         "III"
