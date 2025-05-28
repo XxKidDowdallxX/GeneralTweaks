@@ -1,27 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "group": "pistons",
   "pattern": [
-    "TTT",
-    "#X#",
-    "#R#"
+    "###",
+    "RRQ",
+    "###"
   ],
   "key": {
+    "Q": {
+      "item": "minecraft:quartz"
+    },
     "R": {
       "item": "minecraft:redstone"
     },
     "#": {
       "tag": "minecraft:stone_crafting_materials"
-    },
-    "T": {
-      "tag": "minecraft:planks"
-    },
-    "X": {
-      "item": "minecraft:iron_ingot"
     }
   },
   "result": {
-    "item": "minecraft:piston"
+    "item": "minecraft:observer"
   }
 }

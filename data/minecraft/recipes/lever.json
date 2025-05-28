@@ -1,24 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "group": "dispensers",
   "pattern": [
-    "###",
-    "#X#",
-    "#R#"
+    "X",
+    "#"
   ],
   "key": {
-    "R": {
-      "item": "minecraft:redstone"
-    },
     "#": {
       "tag": "minecraft:stone_crafting_materials"
     },
     "X": {
-      "item": "minecraft:bow"
+      "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "minecraft:dispenser"
+    "item": "minecraft:lever"
   }
 }

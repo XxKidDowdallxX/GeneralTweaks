@@ -9,7 +9,7 @@
     ],
     "key": {
         "C": {
-            "item": "minecraft:cobblestone"
+            "tag": "minecraft:stone_crafting_materials"
         },
         "T": {
             "item": "minecraft:tripwire_hook"
