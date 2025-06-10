@@ -1,0 +1,22 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "build",
+    "group": "redye_concrete_powder",
+    "pattern": [
+        "CCC",
+        "CDC",
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "tag": "general_tweaks:concrete_powder"
+        },
+        "D": {
+            "item": "minecraft:light_gray_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:light_gray_concrete_powder"
+    }
+}

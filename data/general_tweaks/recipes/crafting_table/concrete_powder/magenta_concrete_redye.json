@@ -1,0 +1,22 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "build",
+    "group": "redye_concrete_powder",
+    "pattern": [
+        "CCC",
+        "CDC",
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "tag": "general_tweaks:concrete_powder"
+        },
+        "D": {
+            "item": "minecraft:magenta_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:magenta_concrete_powder"
+    }
+}
