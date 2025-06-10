@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "category": "build",
+    "group": "redye",
+    "ingredients": [
+        { "tag": "general_tweaks:concrete" },
+        { "item": "minecraft:pink_dye" }
+    ],
+    "result": {
+        "item": "minecraft:pink_concrete"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "build",
+    "group": "redye_concrete",
+    "pattern": [
+        "CCC",
+        "CDC",
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "tag": "general_tweaks:concrete"
+        },
+        "D": {
+            "item": "minecraft:light_gray_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:light_gray_concrete"
+    }
+}

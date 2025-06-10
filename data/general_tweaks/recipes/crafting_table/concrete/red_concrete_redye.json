@@ -1,0 +1,22 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "build",
+    "group": "redye_concrete",
+    "pattern": [
+        "CCC",
+        "CDC",
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "tag": "general_tweaks:concrete"
+        },
+        "D": {
+            "item": "minecraft:red_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:red_concrete"
+    }
+}
