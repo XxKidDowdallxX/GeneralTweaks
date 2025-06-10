@@ -13,10 +13,10 @@
             "tag": "general_tweaks:concrete"
         },
         "D": {
-            "item": "minecraft:pink_dye"
+            "item": "minecraft:orange_dye"
         }
     },
     "result": {
-        "item": "minecraft:pink_concrete"
+        "item": "minecraft:orange_concrete"
     }
 }

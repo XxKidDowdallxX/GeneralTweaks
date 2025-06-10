@@ -13,10 +13,10 @@
             "tag": "general_tweaks:concrete_powder"
         },
         "D": {
-            "item": "minecraft:pink_dye"
+            "item": "minecraft:orange_dye"
         }
     },
     "result": {
-        "item": "minecraft:pink_concrete_powder"
+        "item": "minecraft:orange_concrete_powder"
     }
 }
