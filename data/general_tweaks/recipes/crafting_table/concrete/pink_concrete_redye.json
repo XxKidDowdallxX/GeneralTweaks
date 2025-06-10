@@ -17,6 +17,7 @@
         }
     },
     "result": {
-        "item": "minecraft:pink_concrete"
+        "item": "minecraft:pink_concrete",
+        "count": 8
     }
 }

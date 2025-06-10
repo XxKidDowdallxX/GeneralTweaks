@@ -17,6 +17,7 @@
         }
     },
     "result": {
-        "item": "minecraft:cyan_concrete"
+        "item": "minecraft:cyan_concrete",
+        "count": 8
     }
 }

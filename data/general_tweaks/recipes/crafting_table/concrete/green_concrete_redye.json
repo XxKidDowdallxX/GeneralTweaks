@@ -17,6 +17,7 @@
         }
     },
     "result": {
-        "item": "minecraft:green_concrete"
+        "item": "minecraft:green_concrete",
+        "count": 8
     }
 }

@@ -17,6 +17,7 @@
         }
     },
     "result": {
-        "item": "minecraft:white_concrete"
+        "item": "minecraft:white_concrete",
+        "count": 8
     }
 }

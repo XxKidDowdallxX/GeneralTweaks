@@ -17,6 +17,7 @@
         }
     },
     "result": {
-        "item": "minecraft:red_concrete"
+        "item": "minecraft:red_concrete",
+        "count": 8
     }
 }
